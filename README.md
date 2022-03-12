@@ -1,1 +1,2 @@
-# Rede-Neural-Artificial-RNA-para-predizer-valor-de-venda-de-casas
+# _Rede Neural Artificial (RNA)_ para predizer `valor de venda de casas`
+---
